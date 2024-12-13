@@ -5,18 +5,11 @@
  Además cuento con experiencia en el área de atención de clientes, en análisis, tabulación e interpretación de la información para una institución pública del área de salud, permitiendo 
  entregar herramientas de decisión para el control de gestión.
 
- En complemento a mi desarrollo profesional y personal, es que a través de varios bootcamp adquirí conocimientos de programación haciendo un destacado trabajo en los análisis de las 
- bases  de datos.
- 
-## 📫 Contacto
-
-- Puedes contactarme a través de mi correo electrónico: **<paulino.msb@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/paulino-msb/)**
+ En complemento a mi desarrollo profesional y personal, es que a través de varios bootcamp adquirí conocimientos de programación haciendo un destacado trabajo en los análisis de las  bases  de datos.
 
 ## 🧑‍💻 Lenguajes de Programación
 
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
 
 ### 🎨 Frontend
 
@@ -29,4 +22,10 @@
 ### 🔧 Base de Datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDBL](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb)
+
+
+## 📫 Contacto
+
+- Puedes contactarme a través de mi correo electrónico: **<paulino.msb@gmail.com>**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/paulino-msb/)**
 
